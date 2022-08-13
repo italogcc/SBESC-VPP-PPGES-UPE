@@ -12,7 +12,7 @@ Instruções para utilização:
    
 4. Baixar o código deste repositório clicando no botão "Code">"Download ZIP" ou https://github.com/italogcc/SBESC-VPP-PPGES-UPE/archive/refs/heads/main.zip
 
-5. Editar o arquivo "InterfaceDLL-vppbase.py" ou "InterfaceCOM-vppbase.py" inserindo o caminho *path* do arquivo "vppbase.dss", ou seja, o caminho onde os arquivos foram salvos.
+5. Editar o arquivo "InterfaceDLL-cenario0x.py" inserindo o caminho *path* dos arquivos "cenario0x.dss", ou seja, o caminho onde os arquivos foram salvos.
 
 -----------------------------------------------------
 
