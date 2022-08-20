@@ -1,6 +1,8 @@
-## VPP-PPGES-UPE-Art
+## SBESC-VPP-PPGES-UPE
 
-### Simulação de cenários para artigo
+### Simulação de cenários
+
+-----------------------------------------------------
 
 Instruções para utilização:
 

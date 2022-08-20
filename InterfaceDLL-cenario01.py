@@ -9,7 +9,7 @@ dss.text("clear")
 
 # Caminho do arquivo DSS
 # dss_arquivo = str(r"D:\projetos\opendss\arquivo.dss").strip()
-dss_arquivo = str(r"D:\Projetos\opendss\VPP-PPGES-UPE-Art\cenario01.dss").strip()
+dss_arquivo = str(r"D:\Projetos\opendss\SBESC-VPP-PPGES-UPE\cenario01.dss").strip()
 
 # Compila o arquivo DSS
 dss.text("compile {}".format(dss_arquivo))
